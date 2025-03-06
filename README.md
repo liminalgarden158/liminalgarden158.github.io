@@ -1,0 +1,1 @@
+espacio virtual para plantar ideas y cultivar modelos que evolucionen con ellas ꩜

@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "icon": {
+      "type": "lucide",
+      "name": "sprout"
+    },
+    "text": "jardín digital de angel eukarya"
+  },
+  {
+    "id": 2,
+    "icon": {
+      "type": "lucide",
+      "name": "earth"
+    },
+    "type": "lucide",
+    "text": "en la orilla"
+  }
+]
