@@ -1,1 +1,1 @@
-espacio virtual para plantar ideas y cultivar modelos que evolucionen con ellas ꩜
+blog y repositorio de proyectos del jardín liminal ꩜
