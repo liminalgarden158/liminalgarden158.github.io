@@ -5,7 +5,16 @@
       "type": "lucide",
       "name": "github"
     },
-    "text": "GitHub",
+    "text": "Repositorios - GitHub",
     "link": "https://github.com/liminalgarden158"
+  },
+  {
+    "id": 2,
+    "icon": {
+      "type": "simple-icons",
+      "name": "SoundCloud"
+    },
+    "text": "Música - Soundcloud",
+    "link": "https://soundcloud.com/liminalgarden"
   }
 ]
