@@ -11,8 +11,8 @@
   {
     "id": 2,
     "icon": {
-      "type": "simple-icons",
-      "name": "SoundCloud"
+      "type": "lucide",
+      "name": "audio-lines"
     },
     "text": "Música - Soundcloud",
     "link": "https://soundcloud.com/liminalgarden"
