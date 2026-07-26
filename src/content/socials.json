@@ -5,7 +5,7 @@
       "type": "lucide",
       "name": "github"
     },
-    "text": "Repositorios - GitHub",
+    "text": "Repositorios",
     "link": "https://github.com/liminalgarden158"
   },
   {
@@ -14,7 +14,16 @@
       "type": "lucide",
       "name": "audio-lines"
     },
-    "text": "Música - Soundcloud",
+    "text": "Música",
     "link": "https://soundcloud.com/liminalgarden"
+  },
+  {
+    "id": 3,
+    "icon": {
+      "type": "lucide",
+      "name": "tv"
+    },
+    "text": "CyberiaTV",
+    "link": "https://youtube.com/@liminalgarden"
   }
 ]
