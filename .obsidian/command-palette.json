@@ -1,0 +1,10 @@
+{
+  "pinned": [
+    "daily-notes",
+    "daily-notes:goto-next",
+    "daily-notes:goto-prev",
+    "file-explorer:new-file-in-current-tab",
+    "editor:toggle-source",
+    "random-note"
+  ]
+}

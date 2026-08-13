@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "fce4f67088de102c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8d4c54f7d73a1c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca016cc8dbef2ea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the_magician/bitacora/2026-08-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-11"
+            }
+          },
+          {
+            "id": "56fa679811e3ae7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the_magician/config/reaper/reaper-config.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "reaper-config"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bce8dba7c88a6d85",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c9bb960f66379ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b22be78c5b145086",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ce537effbae54020",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "8d46ac5f6b3d4062",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac62990eca6d4a1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "707cd8e27d08d154",
+        "type": "tabs",
+        "dimension": 62.23277909738717,
+        "children": [
+          {
+            "id": "a1c9b1550a30fd5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ad85161616cf6523",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "67988831698ecc56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1da5b2c3ef77e92b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "the_magician/config/reaper/reaper-config.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e2cb3ecb408df764",
+        "type": "tabs",
+        "dimension": 37.76722090261283,
+        "children": [
+          {
+            "id": "e00f7e14aedad384",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "the_magician/config/reaper/reaper-config.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6550152605152347,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico local"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota al azar": false,
+      "audio-recorder:Iniciar/Detener la grabación": false
+    }
+  },
+  "active": "56fa679811e3ae7a",
+  "lastOpenFiles": [
+    "audio/0-liminal-music/0-estatica/friendly-stranger-remix/Backups/friendly-stranger-remix-2026-08-11_034922.rpp-bak",
+    "audio/0-liminal-music/0-estatica/friendly-stranger-remix/Backups/friendly-stranger-remix-2026-08-11_034712.rpp-bak",
+    "audio/0-liminal-music/0-estatica/friendly-stranger-remix/Backups/friendly-stranger-remix-2026-08-11_034036.rpp-bak",
+    "audio/0-liminal-music/0-estatica/friendly-stranger-remix/Backups/friendly-stranger-remix-2026-08-11_033237.rpp-bak",
+    "audio/0-liminal-music/0-estatica/friendly-stranger-remix/Backups/friendly-stranger-remix-2026-08-11_033126.rpp-bak",
+    "audio/0-liminal-music/0-estatica/friendly-stranger-remix/Media/beware the friendly stranger-glued-01.wav",
+    "audio/0-liminal-music/0-estatica/friendly-stranger-remix/Backups/friendly-stranger-remix-2026-08-11_033114.rpp-bak",
+    "audio/0-liminal-music/0-estatica/friendly-stranger-remix/Backups/friendly-stranger-remix-2026-08-11_033054.rpp-bak",
+    "audio/0-liminal-music/0-estatica/friendly-stranger-remix/Media/peaks/beware the friendly stranger-glued-01.wav.reapeaks",
+    "audio/0-liminal-music/0-estatica/friendly-stranger-remix/Backups/friendly-stranger-remix-2026-08-11_030921.rpp-bak",
+    "audio/0-liminal-music/0-estatica/friendly-stranger-remix/Media/beware the friendly stranger-glued.wav",
+    "the_magician/bitacora/2026-08-11.md",
+    "the_magician/config/reaper/reaper-config.md",
+    "dev/jsfx/jsfx-better-arp.md",
+    "dev/jsfx/arpg-variants.md",
+    "dev/jsfx/p-jsfx-x-scales.md",
+    "dev/jsfx/p-jsfx-x-pattern-generator.md",
+    "dev/jsfx/p-jsfx-x-grain-delay.md",
+    "dev/jsfx/p-jsfx-01-delay.md",
+    "dev/jsfx/p-jsfx-00-oscilloscope.md",
+    "dev/jsfx/jsfx-projects.md",
+    "the_magician/tasks.md",
+    "the_magician/bitacora/2026-08-10.md",
+    "the_magician/archive/reaper-config.md",
+    "dev/site/liminal-site.md",
+    "sophia/music/formato-escalas-mininotation.md",
+    "sophia/music/clases/music-charts.md",
+    "sophia/music/clases/mw-syllabus.md",
+    "sophia/music/clases/music-workshop.md",
+    "archive/boceto fundamentos.md",
+    "archive/music is liquid architecture - architecture is frozen music.md",
+    "archive/clases de piano de nuevo.md",
+    "sophia/music/clases/clases-semana-7.md",
+    "sophia/music/clases/clases.md",
+    "sophia/music/clases/clases-guitarra.md",
+    "sophia/music/clases/clases-teoria.md",
+    "the_magician/config/reaper/REAPER/Data/toolbar_icons/toolbar_zoom_time_selection.png",
+    "the_magician/config/reaper/REAPER/Data/toolbar_icons/toolbar_zoom_selected.png",
+    "the_magician/config/reaper/REAPER/Data/toolbar_icons/toolbar_zoom_selected item.png",
+    "the_magician/config/reaper/REAPER/Data/toolbar_icons/toolbar_zoom_region.png",
+    "the_magician/config/reaper/REAPER/Data/toolbar_icons/toolbar_zoom_project.png",
+    "the_magician/config/reaper/REAPER/Data/toolbar_icons/toolbar_zoom_out_audio_waveform.png",
+    "the_magician/config/reaper/REAPER/Data/toolbar_icons/toolbar_zoom_out_all.png",
+    "the_magician/config/reaper/REAPER/Data/toolbar_icons/toolbar_zoom_in_selected_item.png",
+    "the_magician/config/reaper/REAPER/Data/toolbar_icons/toolbar_zoom_in_audio_waveform.png",
+    "the_magician/config/reaper/REAPER/Data/toolbar_icons/toolbar_zoom_all.png",
+    "dev/site/testquartz00/quartz/docs/Canvas.canvas"
+  ]
+}

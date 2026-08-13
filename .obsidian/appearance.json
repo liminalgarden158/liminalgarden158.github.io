@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Aura",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "theme": "obsidian",
+  "showRibbon": false,
+  "textFontFamily": "Georgia,linja pona 4.9",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "IosevkaTerm Nerd Font Mono"
+}

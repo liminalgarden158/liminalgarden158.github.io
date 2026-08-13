@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#db  ",
+      "color": {
+        "a": 1,
+        "rgb": 14722386
+      }
+    },
+    {
+      "query": "tag: #terrenos  ",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "tag:#sophia  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701188
+      }
+    },
+    {
+      "query": "tag: #ningen  ",
+      "color": {
+        "a": 1,
+        "rgb": 11424480
+      }
+    },
+    {
+      "query": "tag:#vulpecula  ",
+      "color": {
+        "a": 1,
+        "rgb": 11079565
+      }
+    },
+    {
+      "query": "tag:#naos  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#house  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "line: bitacora",
+      "color": {
+        "a": 1,
+        "rgb": 12972644
+      }
+    },
+    {
+      "query": "line: numbers",
+      "color": {
+        "a": 1,
+        "rgb": 5413856
+      }
+    },
+    {
+      "query": "tag:#core  ",
+      "color": {
+        "a": 1,
+        "rgb": 10521307
+      }
+    },
+    {
+      "query": "file: template",
+      "color": {
+        "a": 1,
+        "rgb": 8882055
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.05002171204193814,
+  "close": true
+}
